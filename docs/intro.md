@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro - Tisho125
+# Tutorial Intro - Tisho126
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
