@@ -5,7 +5,7 @@
   "routes": [
     {
       "route": "/*",
-      "allowedRoles": [ "web_static_role3" ]
+      "allowedRoles": [ "web_static_role3"]
     }
   ],
   "responseOverrides": {
