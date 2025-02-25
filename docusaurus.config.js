@@ -18,7 +18,7 @@ const config = {
   url: 'https://gray-sea-05a08e703.4.azurestaticapps.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/build/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
