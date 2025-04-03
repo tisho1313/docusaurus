@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://proud-cliff-085c9d203.4.azurestaticapps.net',
+  url: 'https://nice-grass-03f7ecf1e.6.azurestaticapps.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
