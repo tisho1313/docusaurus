@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://nice-grass-03f7ecf1e.6.azurestaticapps.net',
+  url: 'https://www.tisho.biz',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
